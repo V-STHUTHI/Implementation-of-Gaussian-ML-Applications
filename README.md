@@ -1,4 +1,5 @@
-<img width="2533" height="1689" alt="image" src="https://github.com/user-attachments/assets/4d7617fb-ac22-4c41-aa15-26d5da82d99b" />🔢 Implementation: Applications of Normal Distribution in ML
+RESEARCH PAPER LINK:https://arxiv.org/pdf/2407.19092
+🔢 Implementation: Applications of Normal Distribution in ML
 This repository is a Python implementation of the research paper:
 "Some applications of Normal distribution in Machine Learning algorithms" Published in: International Journal of Engineering Inventions (February 2025)
 🔬 Research Context:
@@ -26,3 +27,4 @@ frontend/: A Streamlit dashboard to interact with the research visualisations.
 How to Run
   Install dependencies: pip install -r requirements.txt
   Launch the Workbench: streamlit run frontend/main.py
+
